@@ -1,0 +1,11 @@
+# For CUDA 12.1, install PyTorch separately for GPU support:
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
+trl
+scikit-learn
+pandas
